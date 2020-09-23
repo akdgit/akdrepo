@@ -20,7 +20,7 @@ El nombre y clave del usuario deben estar registrados en la app.
 1.- Ingresar a la aplicación Edu Tech.
 2.- Ingresar un Nombre de usuario incorrecto.
 3.- Ingresar una contraseña incorrecta.
-4.- Verificar que se muestre un mensaje de error indicando al usuario que las credenciales no pertencen a un usuario registrado en el sistema.
+4.- Verificar que se muestre un mensaje de error indicando al usuario que las credenciales no son válidas en el sistema.
 
 ## Verificar que se obtenga el "Alliance_ID" luego de iniciar sesión
 
