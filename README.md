@@ -7,7 +7,6 @@ El nombre y clave del usuario deben estar registrados en la app.
 
 ### Pasos
 1.- Ingresar a la aplicación Edu Tech.
-
 2.- Ingresar Nombre de usuario.
 3.- Ingresar contraseña asociada al nombre de usuario.
 4.- Verificar que la sesión se inicie correctamente.
